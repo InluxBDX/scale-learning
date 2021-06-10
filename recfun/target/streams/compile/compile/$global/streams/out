@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/talles/Documents/coursera/recfun/src/main/scala/recfun/RecFun.scala:56:22: value += is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m  Expression does not convert to assignment because receiver is not assignable.[0m
+[0m[[0m[31merror[0m] [0m[0m            newCount += 1[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m

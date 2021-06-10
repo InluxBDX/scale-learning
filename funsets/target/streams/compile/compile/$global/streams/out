@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/talles/Documents/coursera/funsets/src/main/scala/funsets/Main.scala:9:35: comparing values of types Int and Boolean using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val sub1:FunSet = (x:Int) => x-1==true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
